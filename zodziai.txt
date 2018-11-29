@@ -1,0 +1,643 @@
+﻿alimentos;maitintis
+aceite;aliejus
+aceituna;alyvuogė
+ajo;česnakas
+atun;tunas
+azucar;cukrus
+barra de pan;duonos lazdelė
+bocadillo;sumuštinis
+bolsa de naranjas;apelsinų krepšys
+botella de leche;pieno butelis
+cabeza de ajos;česnako galva
+cafe;kavinė
+carne;mėsa
+carniceria;mėsinė
+carnicero;mėsininkas
+cebolla;svogūnas
+cerdo;kiauliena
+cereales;dribsniai
+chocolate;šokoladas
+compra;pirkinys
+comprar;pirkti
+congelados;sušaldyta
+cordero;ėriena
+docena de huevos;tuzinas kiaušinių
+espaguetis;spagečiai
+filete de ternera;veršienos filė
+fresa;braškės
+fruta;vaisiai
+fruteria;vaisių parduotuvė
+frutero;vaisių pardavėjas
+galleta;sausainis
+gamba;krevetė
+heladera;ledų mašina
+heladeria;ledų parduotuvė
+heladero;ledų pardavėjas
+helado;ledai
+huevo;kiaušinis
+ir a la compra;eiti apsipirkti
+jamon serrano;kumpis
+kilo;kilogramas
+lata de refresco;skardinė gaivaus gėrimo
+leche;pienas
+lechuga;salotos
+litro;litras
+loncha de jamon;kumpio riekelė
+queso;sūris
+macarrones;makaronai
+mantequilla;sviestas
+manzana;obuolys
+melon;melionas
+mercado;sriuba
+merluza;lydeka
+mermelada;uogienė
+naranja;apelsinas
+nevera;šaldytuvas
+pan;duona
+panaderia;kepykla
+panadero;kepėjas
+paquete de salchitas;dešrelių pakelis
+pasta;makaronai
+patata;bulvytė
+pera;kriaušė
+perejil;petražolė
+pescaderia;žuvies parduotuvė
+pescadero;žuvies parduotuvė
+pescado;žuvis
+pina;ananasas
+platano;bananas
+queso;sūris
+queso fresco;šviežias sūris
+refresco;gaivusis gėrimas
+salami;saliamis
+salchicha;dešra
+salmon;lašiša
+sandia;arbūzas
+sandwich;sumuštinis
+sardina;sardinės
+tarrina de mantequilla;sviesto pakelis
+tarro de mermelada;uogienės stiklainis
+ternera;veršiena
+tomate;pomidoras
+ultramarinos;pirkiniai(groceries)
+vegetariano;vegetariškas
+verduleria;daržovių parduotuvė
+vino;vynas
+yogur;jogurtas
+zanahoria;morka
+a la plancha;kepti ant grotelių
+agua mineral;mineralinis vanduo
+aperitivo;užkandis
+arroz;ryžiai
+asado;skrudinta
+bar;baras
+barra de un bar;baro stalas
+beber;gerti
+bebida;gėrimas
+cafe con leche;kava su pienu
+camarero;padavėja
+carta;meniu
+cenar;pietauti
+cerveza;alus
+comer;valgyti
+cuenta;sąskaita
+dejar propina;palikti arbatpinigių
+desayuno;pusryčiai
+ensalada;salotos
+filete de ternera;veršienos filė
+hambre;alkanas
+huevo frito;keptas kiaušinis
+ingrediente;ingredientas
+jugo;sultys
+leche;pienas
+mayonesa;majonezas
+melon;melionas
+menu del dia;dienos meniu
+merluza;lydeka
+pasta;makaronai
+patata;bulvytė
+pedir la cuenta;paprašyti sąskaitos
+pescado;žuvis
+picar algo de comer;užkąsti
+pincho de tortilla;omletas
+pollo;vištiena
+postre;desertas
+primer plato;pirmas patiekalas
+propina;arbatpinigiai/patarimas(tip)
+queso;sūris
+reservar una mesa;rezervuoti stalą
+salsa de tomate;pomidorų padažas
+sardina;sardinės
+sed;ištroškęs
+segundo plato;antras patiekalas
+sopa;sriuba
+tarta de chocolate;šokoladinis pyragas
+te;arbata
+tener sed/hambre;būti ištroškusiam/išalkusiam
+ternera;veršiena
+tomar algo;ką nors gerti
+tomar nota;atkreipti dėmėsį
+tortilla;kiaušinienė
+traer la cuenta;gauti sąskaitą
+vegetariano;vegetariškas
+verdura;daržovė
+vino blanco;baltas vynas
+utensilos de cocina y de mesa;virtuvės reikmenys
+azucar;cukrus
+azucarero;cukraus gamintojas
+bandeja;padėklas
+botella;butelis
+cafe;kava
+cafetera;kavos aparatas
+copa;puodelis
+cubiertos;stalo įrankiai
+cuchara;šaukštas
+cuchillo;peilis
+ensalada;salotos
+helado;ledai
+jarra;ąsotis
+lata;skardinė
+mantel;staltiesė
+mesa;stalas
+pasar;praeiti
+plato hondo;gilus indas
+plato llano;paprastas indas
+plato de postre;desertinis indas
+porner la mesa;paruošti stalą
+postre;desertas
+pure;grynas
+quitar la mesa;pašalinti stalą
+recoger la mesa;nuvalyti stalą
+salero;druska
+servilleta;servetėlė
+sopa;sriuba
+tarro;stiklainis
+taza;puodelis
+tenedor;šakutė
+vaso;stiklinė
+vinagre;actas
+vinagrera;acto buteliukas prie stalo
+celebrar;švęsti
+dia de fiesta;atostogos
+fiesta;vakarėlis
+amarillo;geltona
+azul;mėlyna
+blanco;balta
+naranja;oranžinė
+negro;juoda
+rojo;raudona
+verde;žalia
+violeta;violetinė
+tienda;parduotuvė
+anillo;žiedas
+bisuteria;papušalai
+bolso;piniginė
+bota;batai
+bufanda;skara
+cinturon;diržas
+collar;apyrankė
+corbata;kaklaraištis
+deportivas;sportas
+escaparate;vitrina
+gafas de sol;akiniai nuo saulės
+gorra;dangtelis
+guante;pirštinės
+mochilla;kuprinė
+panuelo;skarelė
+paraguas;skėtis
+pendiente;laukiama
+pulsera;apyrankė
+reloj;laikrodis
+sombrero;skrybelė
+zapateria;batų parduotuvė
+zapatilla;šlepetė
+zapato;batai
+ropa;drabužis
+abrigo;paltas
+banador;maudymosi kostiumėlis
+calcetin;kojinė
+marškinėliai;camisa
+chaqueta;striukė
+falda;sijonas
+hombre;vyras
+jersey;megztinis
+llevar;dėvėti
+pantalones;kelnės
+pijama;pižama
+ponerse;užsidėti
+probador;matavimosi kabina
+probarse(ropa);pabandyti rūbą
+quitarse(ropa);nusiimti rūbą
+traje;kostiumas
+vaqueros;kaubojus
+vestido;suknelė
+vestir;apranga
+educacion;švietimas
+academia;akademija
+actividad;veikla
+alumno;studentas
+aprender;mokytis
+aprobar un examen;išlaikyti egzaminą
+boligrafo;rašiklis
+borrador;trintukas
+borrar;ištrinti
+clase;klasė
+cometer un eror;padaryti klaidą
+companero;partneris
+cuaderno;nešiojamas pc
+deberes;namų darbai
+dibujar;piešti
+diccionaaro;žodynas
+ejercicio;pratimas
+entender;priprasti
+error;klaida
+escribir;rašyti
+escuchar;klausyti
+examen;egzaminas
+goma de borrar;trintukas
+hacer los deberes;daryti namų darbus
+hoja de papel;popieriaus lapas
+lapiz;pieštukas
+libro;knyga
+mapa;žemėlapis
+memorizar;įsiminti
+nota;pastaba
+pizarra;lenta
+practicar;praktika
+preguntar;paklausti
+profesor;profesorius
+repasar;peržiūra
+saber;žinoti
+sacapuntas;drožtukas
+suspender un examen;neišlaikyti egzamino
+tener un examen;turėti egzaminą
+trabajar en grupo;dirbti grupėje
+acera;šaligatvis
+aparcamiento;automobilių stovėjimo aikštelė
+ayuntamiento;rotušė
+banco;bankas
+bar;baras
+barrio;kaiminystė
+cafeteria;kavinė
+cajero automatico;bankomatas
+calle;gatvė
+campo;laukas
+carretera;greitkelis
+centro comercial;prekybos centras
+colegio;kolegija
+edificio;pastatas
+asquina;kampas
+estacion de metro;metro stotis
+estanco;spaudos kioskas
+estatua;statula
+iglesia;bažnyčia
+lugar;vieta
+mezquita;mečetė
+parada de autobus;autobuso/taxi stotelė
+parque;parkas
+peluqueria;kirpykla
+plaza;kvadratas
+pueblo;kaimynas
+quiosco;kioskas
+sinagoga;sinagoga
+vereda;kelias
+fecha y hora;data ir laikas
+lunes;pirmadienis
+martes;antradienis
+miercoles;trečiadienis
+jueves;ketvirtadienis
+vieernes;penktadienis
+sabado;šeštadienis
+domingo;sekmadienis
+hora;valanda
+de dia;dienos metas
+de noche;nakties metas
+reloj;laikrodis
+meses;mėnėsiai
+enero;sausis
+febrero;vasaris
+marzo;kovas
+abril;balandis
+mayo;gegužė
+junio;birželis
+julio;liepa
+agosto;rugpjūtis
+septiembre;rugsėjis
+octubre;spalis
+noviembre;lapkritis
+diciembre;gruodis
+naturaleza;gamta
+accidentes geograficos;geografinės savybės
+agua;vanduo
+bosque;miškas
+continente;žemynas
+costa;pakrantė
+desierto;dykuma
+frio;šaltas
+humedo;drėgnas
+isla;sala
+lago;ežeras
+mar;jūra
+montana;kalnas
+norte;šiaurė
+oceano;vandenynas
+oeste;vakarai
+ola;banga
+pais;šalis
+paisaje;kraštovaizdis
+playa;paplūdimys
+region;regionas
+rio;upė
+sur;pietūs
+volcan;ugnikalnis
+acciones cotidianas;kasdieniniai veiksmai
+acostarse;atsigulti
+cena;vakarienė
+cenar;vakarieniauti
+comer;valgyti
+desayunar;pusryčiai
+ducharse;praustis
+escuchar musica;klausytis muzikos
+estudiar;mokytis
+gimnasio;sporto salė
+hacer la cama/la compra;pasikloti lovą/apsipirkinėti
+ir a trabajar/al gimnasio;eiti į darbą/sporto salę
+leer una revista/un libro;skaityti žurnalą/knygą
+levantarse;atsikelti
+po la manana;ryte
+por la noche;naktį
+por la tarde;po pietų
+preparar la cena;paruošti vakarienę
+reunirse;susitikti
+sacar al perro;išvesti šunį
+salir;išeiti
+trabajar;dirbti
+ver la television;žiūrėti televizorių
+caracter;charakteris
+abiero;atviras
+agradable;malonus
+alegre;linksmas
+amable;draugiškas
+antipatico;nedraugiškas
+capaz;galingas
+contento;laimingas
+egoista;savanaudis
+enfadado;piktas
+equilibrado;subalansuotas
+generoso;dosnus
+humano;žmogus
+inteligente;protingas
+maduro;subrendęs
+nervioso;nervingas
+optimista;optimistas
+ordenado;tvarkingas
+pesimista;pesimistiškas
+preocupado;susirūpinęs
+puntual;punktualus
+reservado;užimtas
+sensible;jautrus
+serio;rimtas
+simpatico;simpatiškas
+sociable;bendraujantis
+tener buen/mal humor;turi gerą/blogą humorą
+timido;drovus
+trabajador;darbštus
+tranquilo;ramus
+triste;liūdnas
+alto;aukštas
+bajo;žemas
+barba;barzda
+bigote;ūsai
+calvo;plikas
+delgado;plonas
+fuerte;stiprus
+gordito;apkūnus
+gordo;storas
+guapo;gražus
+joven;jaunas
+lindo;mielas
+llevar bigote/barba;nešioti ūsus/barzdą
+llevar gafas;nešioti akinius
+morenito;brunetė,maža
+moreno;brunetė
+peca;strazdanos
+pelo corto;trumpi plaukai
+pelo largo;ilgi plaukai
+pelo liso;lygūs plaukai
+pelo moreno;rudi plaukai
+pelo rizado;garbanoti plaukai
+rubio;blondinė
+viejo;senas
+familia;šeima
+abuelo;senelis
+casado;vedęs
+cunado;brolis
+divorciado;išsiskyręs
+esposo;vyras
+hermano;brolis
+hijo;sūnus
+hijo unico;vienas sūnus
+madre;motina
+mama;mama
+marido;vyras
+matrimonio;santuoka
+mujer/esposa;žmona
+nieto;anūkas
+padre;tėvas
+papa;tėtis
+primo;pusbrolis
+separado;atskirtas
+sobrino;sūnėnas
+soltero;vienišas
+tio;dėdė
+arroba;@
+chat;pokalbis
+chatear;pokalbis
+direccion de correo electronico;el pašto adresas
+enviar un mensaje;siųsti žinutę
+foro de discusion;diskusijų forumas
+gulon;scenarijus
+gulon bajo;pabraukti
+mensaje;pranešimas
+navegar;naršyti
+pagina web;tinklalapis
+punto;taškas
+recibis un mensaje;gauti žinutę
+red;tinklas
+sistema anti-virus;antivirusinė
+virus;virusas
+telefono;telefonas
+cabina de telefono;telefono būdelė
+colgar el telefono;padėti ragelį
+esta comunicando;yra prijungtas
+dejar un mensaje;palikti pranešimą
+enviar un mensaje;išsiųsti žinutę
+hacer una llamada;paskambinti
+linea ocupada;užimta linija
+llamada;skambinti
+llapar por telefono;skambinti telefonu
+marcar un numero de telefono;rinkti telefono numerį
+numero equivocado;neteisingas numeris
+telefono estropeado;sulaužytas telefonas
+telefono movil;mobilus telefonas
+telefono publico;viešasis telefonas
+localizacion;vieta
+a la derecha;į dešinę
+a la izquierda;į kairę
+al lado;šalia
+debajo;po
+dentro;viduje
+en el centro;centre
+encima;per
+enfrente;atvirkščiai
+entre;tarp
+junto;kartu
+sobre;apie
+ocio;laisvalaikis
+aficiones y espectaculos;pomėgiai ir šou
+actor;aktorius
+bailar;šokis
+cancion;daina
+cantante;dainininkė
+cantar;dainuoti
+cine;kinas
+circo;cirkas
+concierto;koncertas
+director;režisierius
+discoteca;diskoteka
+escuchar;klausyti
+excursion;ekskursija
+grupo de rock;roko grupė
+ir de compras;eiti apsipirkti
+leer;skaityti
+literatura;literatūra
+museo;muziejus
+musica;muzika
+musical;miuziklas
+novela;romanas
+obra de teatro;spektaklis
+opera;opera
+parque de atracciones;atrakcionų parkas
+pelicula;filmas
+piano;fortepijonas
+poesia;poezija
+quedar con gente;viešnagė su žmonėmis
+teatro;teatras
+tiempro libre;laisvas laikas
+tocar un instrumento;groti instrumentu
+violin;smuikas
+zoo;zoologijos sodas
+relaciones sociales;socialiniai santykiai
+adios;viso gero
+buenas noches;labas vakaras
+buenos dias;laba diena
+como estas;kaip gyveni
+dar la mano;paspausti ranką
+dar un abrazo;apsikabinti
+dar un beso;pabučiuoti
+de nada;prašau
+disculpe;atsiprašau
+el gusto es mio;malonu
+encantado de conocerte;malonu susipažinti
+hola;labas
+muchas gracias;labai ačiū
+mucho gusto;labai malonu
+muy bien,gracias;labai gerai,ačiū
+perdon;atsiprašau
+por favor;prašau
+salud e higiene;sveikata ir higiena
+alcohol;alkoholis
+alergia;alergija
+alergico;alerginis
+ambulancia;greitoji pagalba
+analisis de sangre;kraujo analizė
+antibiotico;antibiotikas
+camilla;neštuvai
+cansado;pavargęs
+centro de salud;sveikatos centras
+consulta;užklausa
+doler;skauda
+dolor;skausmas
+encontrarse bien/mal;jaustis gerai/blogai
+enfermedad;liga
+enfermo;blogai
+estomago;skrandis
+examinar;išnagrinėti
+farmacia;vaistinė
+fiebre;karščiavimas
+garganta;gerklė
+grave;rimtas
+gripe;gripas
+hospital;ligoninė
+infeccion;infekcija
+medicamento;vaistinė
+oido;ausis
+paciente;pacientas
+pastilla;tabletė
+pedir cita;pakviesti į pasimatymą
+receta;receptas
+recetar;paskirti
+sala de espera;laukimo kambarys
+sangre;kraujas
+sano;sveikas
+sentirse bien/mal;jaustis gerai/blogai
+temperatura;temperatūra
+tension alta/baja;aukšta/žema įtampa
+termometro;termometras
+tomar la tension/la temperatura;
+tos;kosulys
+urgericias;nepaprostosios situacijos
+vida;gyvenimas
+cuerpo e higiene personal;kūno ir asmeninė higiena
+afeitarse;skustis
+banarse;maudytis
+banera;vonia
+barba;barzda
+bano;vonios kambarys
+boca;burna
+brazo;ranka
+cabeza;galva
+cara;veidas
+capillarese los dientes;valytis dantis
+cepillo de dientes;šepetėlis
+champu;šampūnas
+colonia;kolonija
+crema;kremas
+cuello;kaklas
+cuidarse;rūpintis
+dedo;pirštas
+desodorante;dezodorantas
+diente;dantis
+ducharse;nusiprausti
+espalda;nugara
+esponja;kempinė
+gel;želė
+jabon;muilas
+labios;lūpos
+lavarse los dientes/el pelo;valytis dantis/plauti plaukus
+mano;ranka
+maquinilla de afeitar;skustuvas
+nariz;nosis
+ojo;akis
+oreja;ausis
+pasta de dientes;dantų pasta
+peinarse;šukuoti
+peine;šukos
+pelo;plaukai
+pie;pėda
+piel;oda
+pierna;koja
+secador;džiovintuvas
+secarse el pelo;džiovinti plaukus
+tijeras;žirklės
+en la oficina;biure
+agenda;darbotvarkė
+alfombrilla;pelės kilimėlis
+calendario;kalendorius
+cliente;klientas
+computadora;kompiuteris
+debajo;žemiau
+dentro;viduje
+encima;per
+factura;sąskaita faktūra
+fotocopia;fotografija
